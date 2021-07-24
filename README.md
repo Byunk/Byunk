@@ -1,5 +1,7 @@
 ### Hi there 👋
- - I'm learning multi-agent RL
+### INTEREST
+ - Multi-agent Reinforcement Learning for Multi-Bases Scheduling System
+ - Flexble Use of Airspace(FUA) by Genetic Algorithm
 
 <!--
 **Byunk/Byunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
