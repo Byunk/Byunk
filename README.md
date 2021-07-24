@@ -1,4 +1,5 @@
-### Hi there 👋
+### I'm learning at KAIST, Republic of Korea
+ - AE, CS at KAIST (BA)
 ### INTEREST
  - Multi-agent Reinforcement Learning for Multi-Bases Scheduling System
  - Flexble Use of Airspace(FUA) by Genetic Algorithm
