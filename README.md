@@ -1,8 +1,7 @@
 ### I'm learning at KAIST, Republic of Korea
  - AE, CS at KAIST (BA)
 ### INTEREST
- - Multi-agent Reinforcement Learning for Multi-Bases Scheduling System
- - Flexble Use of Airspace(FUA) by Genetic Algorithm
+
 
 <!--
 **Byunk/Byunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
