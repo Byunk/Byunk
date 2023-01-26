@@ -4,7 +4,7 @@
 
 [About me](https://byunk.github.io/portfolio/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byunk)](https://github.com/anuraghazra/github-readme-stats)
+[![Byunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byunk)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
