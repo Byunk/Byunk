@@ -1,6 +1,4 @@
-### Learning at KAIST, Republic of Korea
- - AE, CS at KAIST
- - Backend Developer
+KAIST CS & AE
 
 [About me](https://byunk.github.io/portfolio/)
 
