@@ -4,11 +4,9 @@ KAIST CS & AE
 
 ## Main Stack
 
-PL: JS, JAVA
+Languages: JS, JAVA
 
-Frameworks: Nodejs, Spring Boot
-
-+ MongoDB, DOCKER
+Frameworks: Nodejs, Spring Boot + MongoDB, DOCKER
 
 [![Byunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byunk)](https://github.com/anuraghazra/github-readme-stats)
 
