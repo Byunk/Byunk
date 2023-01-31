@@ -2,6 +2,14 @@ KAIST CS & AE
 
 [About me](https://byunk.github.io/portfolio/)
 
+## Main Stack
+
+PL: JS, JAVA
+
+Frameworks: Nodejs, Spring Boot
+
++ MongoDB, DOCKER
+
 [![Byunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byunk)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byunk)](https://github.com/anuraghazra/github-readme-stats)
