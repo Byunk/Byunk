@@ -12,7 +12,9 @@ Frameworks: Nodejs, Spring Boot + MongoDB, DOCKER
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byunk)](https://github.com/anuraghazra/github-readme-stats)
 
-![Byunk's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=clearman001)
+![Byunk's LeetCode stats](https://stats.justsong.cn/api/leetcode/?username=clearman001)
+
+<!-- ![Byunk's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=clearman001) -->
 
 
 <!--
