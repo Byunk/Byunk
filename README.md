@@ -8,11 +8,11 @@ Languages: JS, JAVA
 
 Frameworks: Nodejs, Spring Boot + MongoDB, DOCKER
 
-[![Byunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byunk)](https://github.com/anuraghazra/github-readme-stats)
+![Byunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byunk)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byunk)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byunk)
 
-![Byunk's LeetCode stats](https://stats.justsong.cn/api/leetcode/?username=clearman001)
+![Byunk's LeetCode stats](https://stats.justsong.cn/api/leetcode/?username=clearman001&theme=dark)
 
 <!-- ![Byunk's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=clearman001) -->
 
