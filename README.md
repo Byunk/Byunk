@@ -19,7 +19,7 @@
 Proactive, motivated Junior Software Engineer with high interest in backend development and project management. Experienced in leading projects and designing solutions to specific problems.
 
 <a href="https://byunk.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/About me-grey?style=for-the-badge" alt="About me Badge"/>
+  <img src="https://img.shields.io/badge/About me-blueviolet?style=for-the-badge" alt="About me Badge"/>
 </a>
 
 ### :hammer_and_wrench: Languages and Frameworks
