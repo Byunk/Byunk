@@ -41,6 +41,7 @@ Proactive, motivated Junior Software Engineer with high interest in backend deve
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Byunk&theme=dark&background=000000)
 
 ![Byunk's LeetCode stats](https://stats.justsong.cn/api/leetcode/?username=clearman001&theme=dark)
+![Byunk's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=clearman001)
 
 
 <!-- ![Byunk's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=clearman001) -->
