@@ -7,7 +7,7 @@
     <a href="https://www.instagram.com/kyungho_byoun/">
       <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Blog Badge"/>
     </a>
-    <a href="https://byunk.github.io">
+    <a href="https://kyunghobyoun.com">
       <img src="https://img.shields.io/badge/Blog-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github Blog Badge"/>
     </a>
   </div>
