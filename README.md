@@ -26,20 +26,6 @@ Proactive, motivated Junior Software Engineer with high interest in backend deve
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byunk&theme=vision-friendly-dark)
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
-### :fire: My Stats :
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Byunk&theme=dark&background=000000)
-
 <!-- ![Byunk's LeetCode stats](https://stats.justsong.cn/api/leetcode/?username=clearman001&theme=dark)
 ![Byunk's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=clearman001) -->
 
