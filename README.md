@@ -4,46 +4,21 @@
     <a href="https://www.linkedin.com/in/kyungho-byoun-49b262240/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/kyungho_byoun/">
-      <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Blog Badge"/>
-    </a>
     <a href="https://kyunghobyoun.com">
       <img src="https://img.shields.io/badge/Blog-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github Blog Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=byunk&style=flat-square&color=blue" alt=""/>
 </div>
 
-#### KAIST, Bachelor of Engineering in Computer Science, Aerospace Engineering
+<br />
 
-Proactive, motivated Junior Software Engineer with high interest in backend development and project management. Experienced in leading projects and designing solutions to specific problems.
+Hi. Currently I'm working at SAP as a cloud data engineer.
 
-<a href="https://kyunghobyoun.com">
-  <img src="https://img.shields.io/badge/About me-blueviolet?style=for-the-badge" alt="About me Badge"/>
-</a>
+If you want to contact me, please email me (kyungho.byoun@gmail.com), and visit my [website](https://kyunghobyoun.com).
 
-### :hammer_and_wrench: Languages and Frameworks
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byunk&theme=vision-friendly-dark)
 
 <!-- ![Byunk's LeetCode stats](https://stats.justsong.cn/api/leetcode/?username=clearman001&theme=dark)
 ![Byunk's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=clearman001) -->
 
 
 <!-- ![Byunk's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=clearman001) -->
-
-
-<!--
-**Byunk/Byunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
