@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/kyungho-byoun-49b262240/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://kyungho.me">
+    <a href="https://kyungho.me/en">
       <img src="https://img.shields.io/badge/Blog-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github Blog Badge"/>
     </a>
   </div>
