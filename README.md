@@ -1,53 +1,14 @@
-```
-BYUNK(7)                    Software Engineer Manual                    BYUNK(7)
+## Build software 2.0
 
-NAME
-       byunk — Kyungho Byoun, Founder @ A4S
+Kyungho Byoun, Founder @ A4S
 
-SYNOPSIS
-       byunk [--programming-language] [--data-engineering]
-             [--cloud-native] [--open-source]
+[X](https://x.com/kyungho_byoun) · [Substack](https://substack.com/@kyunghobyoun)
 
-DESCRIPTION
-       Founder of A4S (Agent for Singularity).  If an AI model is a
-       CPU, an agent is an OS.  We're building an OS for the Software
-       2.0 world — so that AI actually *uses* computers the way humans
-       do.  We think a proper OS layer is the missing piece that makes
-       AI genuinely useful, and we're building it in the open.
+**Work**
 
-OPTIONS
-       --programming-language
-              Rust, Python, Go, TS
+- [A4S](https://github.com/a4s-lab) - Founder, Agent for Singularity
+- [SAP](https://www.sap.com/index.html) - Developer, Petabyte scale data pipeline
 
-       --data-engineering
-              Petabyte scale data pipeline @ SAP w/ Spark, Delta Lake
+**Project**
 
-       --cloud-native
-              Kubernetes, Istio
-
-       --open-source
-              Enthusiast
-
-ENVIRONMENT
-       EDITOR      zed
-       SHELL       zsh
-       MULTIPLEXER zellij
-       FINDER      fzf
-       DOTFILES    github.com/Byunk/dotfiles
-
-HISTORY
-       A4S     Founder                    2026 — present
-       SAP     Software Developer         2023 — 2026
-       KAIST   B.Eng CS & Aerospace Eng   2017 — 2024
-
-SEE ALSO
-       substack    Opinions, Software Engineering
-                   https://substack.com/@kyunghobyoun
-       X           Thoughts
-                   https://x.com/kyungho_byoun
-
-AUTHOR
-       Kyungho Byoun <kyungho.byoun@gmail.com>
-
-                               April 2026                           BYUNK(7)
-```
+- [Browny](https://github.com/a4s-lab/browny) - Computer use agent
