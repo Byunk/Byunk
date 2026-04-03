@@ -9,11 +9,11 @@ SYNOPSIS
              [--cloud-native] [--open-source]
 
 DESCRIPTION
-       Founder of A4S refers to as Agent for Singularity.  If AI model is a CPU,
-       Agent is an OS.  We're building an OS for software 2.0 world.  With OS,
-       AI actually *use* computers the way human do.  We think the genuine OS
-       is the missing piece that makes AI genuinely useful, and we're building
-       it in the open.
+       Founder of A4S (Agent for Singularity).  If an AI model is a
+       CPU, an agent is an OS.  We're building an OS for the Software
+       2.0 world — so that AI actually *uses* computers the way humans
+       do.  We think a proper OS layer is the missing piece that makes
+       AI genuinely useful, and we're building it in the open.
 
 OPTIONS
        --programming-language
