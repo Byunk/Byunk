@@ -1,24 +1,53 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/kyungho-byoun-49b262240/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://kyungho.me/en">
-      <img src="https://img.shields.io/badge/Blog-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github Blog Badge"/>
-    </a>
-  </div>
-</div>
+```
+BYUNK(7)                    Software Engineer Manual                    BYUNK(7)
 
-<br />
+NAME
+       byunk — Kyungho Byoun, Founder @ A4S
 
-Hi. Currently I'm working at SAP as a cloud data engineer.
+SYNOPSIS
+       byunk [--programming-language] [--data-engineering]
+             [--cloud-native] [--open-source]
 
-If you want to contact me, please email me (kyungho.byoun@gmail.com), and visit my [website](https://kyungho.me).
+DESCRIPTION
+       Founder of A4S refers to as Agent for Singularity.  If AI model is a CPU,
+       Agent is an OS.  We're building an OS for software 2.0 world.  With OS,
+       AI actually *use* computers the way human do.  We think the genuine OS
+       is the missing piece that makes AI genuinely useful, and we're building
+       it in the open.
 
+OPTIONS
+       --programming-language
+              Rust, Python, Go, TS
 
-<!-- ![Byunk's LeetCode stats](https://stats.justsong.cn/api/leetcode/?username=clearman001&theme=dark)
-![Byunk's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=clearman001) -->
+       --data-engineering
+              Petabyte scale data pipeline @ SAP w/ Spark, Delta Lake
 
+       --cloud-native
+              Kubernetes, Istio
 
-<!-- ![Byunk's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=clearman001) -->
+       --open-source
+              Enthusiast
+
+ENVIRONMENT
+       EDITOR      zed
+       SHELL       zsh
+       MULTIPLEXER zellij
+       FINDER      fzf
+       DOTFILES    github.com/Byunk/dotfiles
+
+HISTORY
+       A4S     Founder                    2026 — present
+       SAP     Software Developer         2023 — 2026
+       KAIST   B.Eng CS & Aerospace Eng   2017 — 2024
+
+SEE ALSO
+       substack    Opinions, Software Engineering
+                   https://substack.com/@kyunghobyoun
+       X           Thoughts
+                   https://x.com/kyungho_byoun
+
+AUTHOR
+       Kyungho Byoun <kyungho.byoun@gmail.com>
+
+                               April 2026                           BYUNK(7)
+```
