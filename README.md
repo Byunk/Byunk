@@ -1,4 +1,4 @@
-## Build software 2.0
+## I build what remains.
 
 Kyungho Byoun, Founder @ A4S
 
