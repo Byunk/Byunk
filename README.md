@@ -6,9 +6,6 @@ Kyungho Byoun, Founder @ A4S
 
 **Work**
 
-- [A4S](https://github.com/a4s-lab) - Founder, Agent for Singularity
-- [SAP](https://www.sap.com/index.html) - Developer, Petabyte scale data pipeline
+- [A4S](https://github.com/a4s-lab) - Founder
+- [SAP](https://www.sap.com/index.html) - Developer, architect petabyte scale data pipeline with Spark, Delta Lake
 
-**Project**
-
-- [Browny](https://github.com/a4s-lab/browny) - Computer use agent
