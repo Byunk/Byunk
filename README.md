@@ -1,8 +1,8 @@
-## I build what remains.
+## I build what lasts.
 
 Kyungho Byoun, Founder @ A4S
 
-[Blog](https://kyungho.me) · [Substack](https://substack.com/@kyunghobyoun) · [X](https://x.com/kyungho_byoun)
+[Blog](https://kyungho.me) · [Substack](https://substack.com/@kyunghobyoun) · [LinkedIn](https://www.linkedin.com/in/kyungho-byoun/)
 
 **Work**
 
