@@ -2,7 +2,7 @@
 
 Kyungho Byoun, Founder @ A4S
 
-[Blog](https://kyungho.me) · [Substack](https://substack.com/@kyunghobyoun) · [LinkedIn](https://www.linkedin.com/in/kyungho-byoun/)
+[Blog](https://kyungho.me) · [LinkedIn](https://www.linkedin.com/in/kyungho-byoun/)
 
 **Work**
 
