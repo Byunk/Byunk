@@ -1,6 +1,6 @@
 ## I build what lasts.
 
-Kyungho Byoun, Founder @ A4S
+Kyungho Byoun, Founder at Quixotic.
 
 [Blog](https://kyungho.me) · [LinkedIn](https://www.linkedin.com/in/kyungho-byoun/)
 
