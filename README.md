@@ -6,5 +6,5 @@ Kyungho Byoun, Founder @ A4S
 
 **Work**
 
-- [A4S](https://github.com/a4s-lab) - Founder
-- [SAP](https://www.sap.com/index.html) - Developer, data engineering in distributed system
+- [Quixotic](https://github.com/a4s-lab) - Founder
+- [SAP](https://www.sap.com/index.html) (2023 - 2026) - Developer, data engineering in distributed system
